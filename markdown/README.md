@@ -12,10 +12,10 @@ though there are a few known issues. See [Features][] for information
 on what exactly is supported and what is not. Additional features are 
 supported by the [Available Extensions][].
 
-[Python-Markdown]: http://packages.python.org/Markdown/
+[Python-Markdown]: https://python-markdown.github.io/
 [Markdown]: http://daringfireball.net/projects/markdown/
-[Features]: http://packages.python.org/Markdown/index.html#Features
-[Available Extensions]: http://packages.python.org/Markdown/extensions/index.html
+[Features]: https://python-markdown.github.io/#features
+[Available Extensions]: https://python-markdown.github.io/extensions
 
 
 Documentation
@@ -23,7 +23,7 @@ Documentation
 
 Installation and usage documentation is available in the `docs/` directory
 of the distribution and on the project website at 
-<http://packages.python.org/Markdown/>.
+<https://python-markdown.github.io>.
 
 Support
 -------
